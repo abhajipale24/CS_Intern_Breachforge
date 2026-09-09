@@ -64,8 +64,8 @@ and resources.
 
 Evidence is stored in the `screenshots` directory.
 
-* `screenshots/01.png`
-* `screenshots/02.png`
+* `Day11_01.png`
+* `Day11_02.png`
 
 Sensitive information such as passwords, tokens, cookies and private
 user information was excluded.
